@@ -1,3 +1,6 @@
+// Import stylesheets
+import './style.css';
+
 // Write Javascript code!
 window.onscroll = function () {
   myFunction();
